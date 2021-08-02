@@ -2,6 +2,7 @@
 
 export(goodbye)
 export(hello)
+export(hru)
 export(potenciaLog)
 export(potenciaRecursiva)
 export(quadrado)

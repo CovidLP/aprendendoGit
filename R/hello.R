@@ -5,3 +5,9 @@ hello <- function() {
 
 #' @export
 goodbye <- function() print("Tchau!")
+
+#' @export
+hru <- function() {
+  print("Como vai vc?")
+}
+
